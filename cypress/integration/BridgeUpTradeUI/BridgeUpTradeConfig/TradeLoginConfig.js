@@ -1,0 +1,6 @@
+export const tradeLogintesturl ='https://app.devbridgeup.com/login'
+export const TradeValidMailId = 'prabhakaran+387@bridgeup.com'
+export const TradeValidPassword = 'Admin@123$'
+export const Authid ='auth.devbridgeup.com'
+export const hasuraid ='api.devbridgeup.com'
+export const ValidMobileNumber = '6381794677'

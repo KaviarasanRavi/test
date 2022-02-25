@@ -1,0 +1,82 @@
+Company - SignUp - API Validation - Test Suit
+TC003{
+  "statusCode": 422,
+  "message": "\"tenant_name\" is required",
+  "errorCode": "BAD_REQUEST"
+}TC003b{
+  "statusCode": 422,
+  "message": "\"tenant_name\" length must be at least 3 characters long",
+  "errorCode": "BAD_REQUEST"
+}TC004a{
+  "statusCode": 422,
+  "message": "\"email\" must be a valid email",
+  "errorCode": "BAD_REQUEST"
+}TC004d{
+  "statusCode": 422,
+  "message": "\"email\" must be a valid email. \"email\" contains an invalid value",
+  "errorCode": "BAD_REQUEST"
+}TC004e{
+  "statusCode": 422,
+  "message": "\"email\" must be a valid email",
+  "errorCode": "BAD_REQUEST"
+}TC004f{
+  "statusCode": 422,
+  "message": "\"email\" must be a valid email",
+  "errorCode": "BAD_REQUEST"
+}TC004g{
+  "statusCode": 422,
+  "message": "\"email\" must be a valid email",
+  "errorCode": "BAD_REQUEST"
+}TC004h{
+  "statusCode": 422,
+  "message": "\"email\" must be a valid email. \"email\" contains an invalid value",
+  "errorCode": "BAD_REQUEST"
+}TC004i{
+  "statusCode": 422,
+  "message": "\"email\" length must be at least 8 characters long",
+  "errorCode": "BAD_REQUEST"
+}TC005a{
+  "statusCode": 422,
+  "message": "\"password\" is required",
+  "errorCode": "BAD_REQUEST"
+}TC006a{
+  "statusCode": 422,
+  "message": "\"first_name\" is required",
+  "errorCode": "BAD_REQUEST"
+}TC007a{
+  "statusCode": 422,
+  "message": "\"last_name\" is required",
+  "errorCode": "BAD_REQUEST"
+}TC009a{
+  "statusCode": 422,
+  "message": "\"mobile_number\" length must be at least 6 characters long. \"mobile_number\" with value \" \" fails to match the required pattern: /^[0-9]*$/. \"country_code\" contains an invalid value",
+  "errorCode": "BAD_REQUEST"
+}TC009b{
+  "statusCode": 422,
+  "message": "\"mobile_number\" with value \"          \" fails to match the required pattern: /^[0-9]*$/",
+  "errorCode": "BAD_REQUEST"
+}TC009c{
+  "statusCode": 422,
+  "message": "\"mobile_number\" with value \"63*(7946&7\" fails to match the required pattern: /^[0-9]*$/",
+  "errorCode": "BAD_REQUEST"
+}TC009d{
+  "statusCode": 422,
+  "message": "\"mobile_number\" with value \"mobilenbr\" fails to match the required pattern: /^[0-9]*$/. \"country_code\" contains an invalid value",
+  "errorCode": "BAD_REQUEST"
+}TC010a{
+  "statusCode": 422,
+  "message": "\"country_code\" is required",
+  "errorCode": "BAD_REQUEST"
+}TC010b{
+  "statusCode": 422,
+  "message": "\"country_code\" with value \"          \" fails to match the required pattern: /^[0-9]{1,5}$/",
+  "errorCode": "BAD_REQUEST"
+}TC010c{
+  "statusCode": 422,
+  "message": "\"country_code\" with value \"India\" fails to match the required pattern: /^[0-9]{1,5}$/",
+  "errorCode": "BAD_REQUEST"
+}TC010d{
+  "statusCode": 422,
+  "message": "\"country_code\" with value \"9$\" fails to match the required pattern: /^[0-9]{1,5}$/",
+  "errorCode": "BAD_REQUEST"
+}

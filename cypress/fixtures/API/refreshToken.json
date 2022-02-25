@@ -1,0 +1,30 @@
+[
+    {
+      "TestId": "TC001",
+      "TestType": "Positive",
+      "TestName": "User_refreshToken with Token",
+      "TestDesc": null,
+      "TestAPIName": "refreshToken",
+      "Tenant_Type": "COMPANY",
+      "signInRefreshToken": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.L_s_GeLNVf1BrSKDM5vkS79PO4EWKncHDv5PR-8jrgU42TfWhMZbsmvRVE8XbsWdZBrqmFIX-sadUORC-g-ql6yjw8YaznPBvftaYY1La7aI_tz15ZHuWeRZVssdPVBd-oFaANx6Jo5FpCYfsmQB5pi54tgQ_0jUQmozOXFXPitY8HQq3_lm2VfLddJhcVxZmycLeFbYd-CLz5GQWzIk33C1fcfG1Gq9MQKCIbwjmINGascLQ425nms2sAnAx6jMBSHRUA6A8eXiDT8I1eaNs-hP3e6XYe9uazFqqqEk1kzXgZqCpygDqeVLki_umTTzTcTrxrTdMHgNG4v3aCwaeQ.OQuZ2ceZoHqUXVZ4.0Mf7r3Y9Ha-NDsIRsHRhN8ZebjL5EMGZxkMPh84X_3NxaPtEhOLGqRD3hbzlPJ3bIllTQ35HavBU5w7bXzHABq4CL0Wds9mbE3yjY2EnRNoOOVZIn6heOdvzdmCLwJ4nU5y1XPWIDzh9LBYr66hTvftHAFmOXiPHbW60Zhvk6fE6V7IT3KPYB_WS16uMS276iZfPo-FEdCscm3gdDwqz53XuM_NLyDP5Rr4US15i0B0iF5AOKSB8K8EP-oIn7pl-1Lp1t7eBSiXxfxO9dzy3FigwVNVwu--1iP_XAzI2gNMRMtjPBg8g3GysBU_4OIoUptU69JkB0YzWziS7NkMNGKkxENgVCHmHb1buS6R-_k8PwU-S8SfZdsJO4aYdqXIBlOaa2LUy3re32IY4L-sQlgqQQsFt-Wjn9-mNDKdR7gz8Ih30_jPaDiEgI05bNfEiNfmWLCGCfYO1mIYYddkO-XPbMcX98q8tdzs8sQib7CVuEezmz0L0qyGNQJ_lsuhHwRe25hCZmDXgKxZAKJm1KQ2o4WxvNDdegNmJo_uP-pCxHr03yEq5X-ZIWyFru68ekrUOtwXZ17AbZeccGFsnFCAvHcGborJpA_pVHz8MjU4Xr1LM-DDXoxBuVPmIzq6Ug5qg6LvIAmkbjN5707lgn4dbyT4iFbE7CRNbAJbmqNp1RBpnexxZ_qC-s0uzrVLTQg6gmrTsAHbeqfr1siIuoVMRQ6UP_PkPneKSlny6mXUlUpZn5hS6MSCpZOs8xuNqj4OmLTNSh1TQlbj1RuoTrFfBlyLXV8dh_9A0gUml0mypep-1yTB3_xghnZ9_uqKvGNZLhKzyS4Cj3Mrm17u9d8dSquU6u5zZJmZjzZXiD7BSu-4fH1TaJnB6qfSS5QLyp6ig_32l1g8jX6N04VgHDYSNjb_xU9E-R9PhMp5l2__HdM25hM8D9lRkAZCDfJcBLF0-9UDSzBaAgD-Uro9ee5GtZplj1TqehdipFXlXE5yBgAn252UOtD6VtW7RzlI1lnl72_urrrJyT7YNFjIT4J9wq5nH2hTlw7tSF31sQJLPqbmO9zLmWD2Ow2sUeAgNDjnCEQVHGnMFrQZFDT0_Gi-BHMe-kkuFXr_zc9VLQaWn4iJPbFmAA2LDXCuHZZ0WTwzITJeVxEdwKn70cYJCx9cbDOvnN6VeYMsJV88MSlRMmg1o7vqzAOaKDNHg0RPC4qRWPxH5-JnaYu_3SwbNfTFbVdoXm9AUia2r-BxY-tYVpjmj4jQDSBCKvl1jdvlEQU3ZdiUVBl0Nu6L_B35Oc1GgShEp4zOI47towU__HFOWJb4ofViR3nZEfbpBdkar5D7E8CTJ5e8K.Vj6JfPCA9jB6WwuWGcQvYQ",
+      "Expected_status": 200,
+      "Expected_statusCode": 200,
+      "Expected_message": "User Verified",
+      "Expected_errorCode": " ",
+      "Expected_success": true
+    },
+    {
+      "TestId": "TC002",
+      "TestType": "Negative",
+      "TestName": "DuplicateCode refreshToken",
+      "TestDesc": null,
+      "TestAPIName": "refreshToken",
+      "Tenant_Type": "COMPANY",
+      "signInRefreshToken": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.L_s_GeLNVf1BrSKDM5vkS79PO4EWKncHDv5PR-8jrgU42TfWhMZbsmvRVE8XbsWdZBrqmFIX-sadUORC-g-ql6yjw8YaznPBvftaYY1La7aI_tz15ZHuWeRZVssdPVBd-oFaANx6Jo5FpCYfsmQB5pi54tgQ_0jUQmozOXFXPitY8HQq3_lm2VfLddJhcVxZmycLeFbYd-CLz5GQWzIk33C1fcfG1Gq9MQKCIbwjmINGascLQ425nms2sAnAx6jMBSHRUA6A8eXiDT8I1eaNs-hP3e6XYe9uazFqqqEk1kzXgZqCpygDqeVLki_umTTzTcTrxrTdMHgNG4v3aCwaeQ.OQuZ2ceZoHqUXVZ4.0Mf7r3Y9Ha-NDsIRsHRhN8ZebjL5EMGZxkMPh84X_3NxaPtEhOLGqRD3hbzlPJ3bIllTQ35HavBU5w7bXzHABq4CL0Wds9mbE3yjY2EnRNoOOVZIn6heOdvzdmCLwJ4nU5y1XPWIDzh9LBYr66hTvftHAFmOXiPHbW60Zhvk6fE6V7IT3KPYB_WS16uMS276iZfPo-FEdCscm3gdDwqz53XuM_NLyDP5Rr4US15i0B0iF5AOKSB8K8EP-oIn7pl-1Lp1t7eBSiXxfxO9dzy3FigwVNVwu--1iP_XAzI2gNMRMtjPBg8g3GysBU_4OIoUptU69JkB0YzWziS7NkMNGKkxENgVCHmHb1buS6R-_k8PwU-S8SfZdsJO4aYdqXIBlOaa2LUy3re32IY4L-sQlgqQQsFt-Wjn9-mNDKdR7gz8Ih30_jPaDiEgI05bNfEiNfmWLCGCfYO1mIYYddkO-XPbMcX98q8tdzs8sQib7CVuEezmz0L0qyGNQJ_lsuhHwRe25hCZmDXgKxZAKJm1KQ2o4WxvNDdegNmJo_uP-pCxHr03yEq5X-ZIWyFru68ekrUOtwXZ17AbZeccGFsnFCAvHcGborJpA_pVHz8MjU4Xr1LM-DDXoxBuVPmIzq6Ug5qg6LvIAmkbjN5707lgn4dbyT4iFbE7CRNbAJbmqNp1RBpnexxZ_qC-s0uzrVLTQg6gmrTsAHbeqfr1siIuoVMRQ6UP_PkPneKSlny6mXUlUpZn5hS6MSCpZOs8xuNqj4OmLTNSh1TQlbj1RuoTrFfBlyLXV8dh_9A0gUml0mypep-1yTB3_xghnZ9_uqKvGNZLhKzyS4Cj3Mrm17u9d8dSquU6u5zZJmZjzZXiD7BSu-4fH1TaJnB6qfSS5QLyp6ig_32l1g8jX6N04VgHDYSNjb_xU9E-R9PhMp5l2__HdM25hM8D9lRkAZCDfJcBLF0-9UDSzBaAgD-Uro9ee5GtZplj1TqehdipFXlXE5yBgAn252UOtD6VtW7RzlI1lnl72_urrrJyT7YNFjIT4J9wq5nH2hTlw7tSF31sQJLPqbmO9zLmWD2Ow2sUeAgNDjnCEQVHGnMFrQZFDT0_Gi-BHMe-kkuFXr_zc9VLQaWn4iJPbFmAA2LDXCuHZZ0WTwzITJeVxEdwKn70cYJCx9cbDOvnN6VeYMsJV88MSlRMmg1o7vqzAOaKDNHg0RPC4qRWPxH5-JnaYu_3SwbNfTFbVdoXm9AUia2r-BxY-tYVpjmj4jQDSBCKvl1jdvlEQU3ZdiUVBl0Nu6L_B35Oc1GgShEp4zOI47towU__HFOWJb4ofViR3nZEfbpBdkar5D7E8CTJ5e8K.Vj6JfPCA9jB6WwuWGcQvYQ",
+      "Expected_status": 500,
+      "Expected_statusCode": 500,
+      "Expected_message": "Internal Server Error",
+      "Expected_errorCode": " ",
+      "Expected_success": " "
+    }
+  ]

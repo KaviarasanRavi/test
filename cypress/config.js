@@ -1,0 +1,8 @@
+export const TestUrl = 'https://app.devbridgeup.com/login'
+export const ValidUserid = 'prabhakaran+522@bridgeup.com'
+export const ValidPassword = 'Admin@123$'
+export const ValidPAN = 'AAJCB9440M'    
+export const PANCOMPANY = 'BRIDGEUP TECH PRIVATE LIMITED'    
+export const DifferentCompanyUserid = 'prabhakaran+503@bridgeup.com'    
+export const DifferentCompanyPassword = 'Admin@123$'    
+export const DifferentPAN = 'AAECN1498C'

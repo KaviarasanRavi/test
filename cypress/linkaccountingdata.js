@@ -1,0 +1,5 @@
+export const ValidaccountingdataPassword = 'Admin@123$'
+export const validaccountingdatauserid = 'prabhakaran+409@bridgeup.com'  
+export const testingurl = 'https://app.devbridgeup.com/login'   
+export const Authid ='auth.devbridgeup.com'
+export const hasuraid ='api.devbridgeup.com'

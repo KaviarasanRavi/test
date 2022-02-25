@@ -1,0 +1,30 @@
+[
+    {
+      "TestId": "TC001",
+      "TestType": "Positive",
+      "TestName": "User_verifyToken with Token",
+      "TestDesc": null,
+      "TestAPIName": "signOut",
+      "Tenant_Type": "COMPANY",
+      "signOutToken": "eyJraWQiOiJyYUlMRjJrd2pSQUpKVVZjQVwvcjA0dXk5eEdKb3JFRlM3M2tFcEtuTHo4bz0iLCJhbGciOiJSUzI1NiJ9.eyJ4LWhhc3VyYS1yb2xlIjoiY29tcGFueS11c2VyIiwic3ViIjoiNzEyMTU2YmUtZTgyYi00YzE1LThmMDQtOGMyZjc5OTI4MTQyIiwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmFwLXNvdXRoZWFzdC0xLmFtYXpvbmF3cy5jb21cL2FwLXNvdXRoZWFzdC0xX3pQeVJjeFIydCIsIngtaGFzdXJhLXRlbmFudC10eXBlIjoiQ09NUEFOWSIsImNvZ25pdG86dXNlcm5hbWUiOiI3MTIxNTZiZS1lODJiLTRjMTUtOGYwNC04YzJmNzk5MjgxNDIiLCJvcmlnaW5fanRpIjoiYjNjNjFmMzUtOGMwYy00OWMxLWI4ZDMtZWU1MWQwY2Y2NThiIiwiYXVkIjoiM2prYXVrM2Rlc2pmM3E4NGF2bXE1NWtoc2oiLCJ4LWhhc3VyYS10ZW5hbnQtaWQiOiIxNjkiLCJldmVudF9pZCI6Ijc5MGFmZWEwLWI2YTItNGQ4My1hNTVhLWZiOGE1NGM0MzM2NyIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNjM3NTg5NzM3LCJ4LWhhc3VyYS11c2VyLWlkIjoiMTg5IiwiZXhwIjoxNjM3NTkzMzM3LCJpYXQiOjE2Mzc1ODk3MzcsImp0aSI6IjU0NjBkMTI4LTNkYmYtNGYzMi1hODliLTdhZjUzYTYxNjU0MCIsImVtYWlsIjoicHJhYmhha2FyYW4rM0BicmlkZ2V1cC5jb20ifQ.BZlmULRgBcMLZjlQCQXdMNjo-vEnYr78dSWfUf3jHZPgqIAo5NFMbmsbPl2M4o_sFvLMH2gtTAXgGSHwQzzK7WReaEl-qrghXDJr2dgB4OyOWUzB2YyE9STXJr-EGSZNPuaoaoS5x_-BDX8LKKYV8Q0hiaOww9qkOuTUTUr1rDVE_Vc7r4L2vw4ajX0JOaOvG2Om5yuucXlmZ3Kok7H8wS9hp8X2_OEhW9CKN5SVTM9RhfY6MokAsZwO1Q6ZfCVLwgUEjgsh7i_-AO_95uc8Ty1O4jDjybEC5XEXkz3liMx3o3QxNsogSmunkjekW1O58WrSfe0gdsUXrDOQx3lSgg",
+      "Expected_status": 200,
+      "Expected_statusCode": 200,
+      "Expected_message": "User Verified",
+      "Expected_errorCode": " ",
+      "Expected_success": true
+    },
+    {
+      "TestId": "TC002",
+      "TestType": "Negative",
+      "TestName": "DuplicateCode _verifyToken",
+      "TestDesc": null,
+      "TestAPIName": "signOut",
+      "Tenant_Type": "COMPANY",
+      "signOutToken": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.d55bzeAKlPkp9xPQHdSeTDsNX0RNd3gGUbYF6QJasqhONYFq4o2ryay7uhsK0zMAy1zhQZqsl7kMlJByUdvO43jcOpsK-UU9sstfk3GQLJKqgAnN_7ioTVr2gcLC5oDQTlp4WEWLuoJpqHcl0WxIjjaP9gGaKp62TolTr96N3RNAaycaOM-6Shd3PRdoEFczc6OihBMDS8x92VSAjOoQup0tFzEyqzzF6SidMkyWkU9F_njgenQzxCzjhP1Fwn_n-qbba_n6Mv_F-LQLfpEHF6DCzI75HKtTXQTl9WZuiLmcjhbeNAfAUsvY3vqJazJC1QhjDAswoEN2Xq0FVZDNrg.Ji8whhq-xZCWEZql.yHtQds5BEqExTGpqRCzhVrg7WMvTjw08zAis4heB1A484M_2isSawZ7T2k2k82VSLjoIXcA6u-qmWjFLIe30bSZkMaWM0eK85HdgZogetTRlaF5Y30n-A2-33hGaoLBbGS4hnbZSjUXWxusOxPg0XjVKtdH--4NmosuAnPaLgXdeAcCJaL13neywHrG0otlbMD6_XjHALRdDpA8rn3A6jNe1Gl_XwjLdJfkWegT6mcpLx7vRMhP5NZA_Etlfx17aCktIetplq0qpyA_aigqlqsraWI89V8HCWQIb2MEBRHI2YCPC8lrdjvAUROrLdX6bZSAGtY_GSgxQMEbWmFlNG7huYG3tfc9bVa3all1Xfo3i4Pnb-ui6J1WNkrTGtEaIZHrvEV_gtnshkJ_zqWXS2MtZgNPpaWgP_pt0CmSDYDOFd5tALn4doevUODMWz6PWXHcJ9RVEkg9IL7xdyFmGz0ZdtKB-op9kV_cLM6X3AlV8kBGEFF5MdcJblGRv7YB93J0BnhxZ-dWqDG9ICT7DbrNhZPg5I9OSYJyipiqd7vGUVGn1bl31JJkw_grVwaTgqV2sAbVRIYtF_awMYUiBEmIqPlSYdpwxGeXZMiVNdgRM25neT47O2z-kJwQrljulohOnhjY6jOtc68IqGKGZYB5XxsbfdUtCGXHWlXkCTDgT9t8KC-LG_TI83q5Q18dN4rGCLx4VkFXU6lTDwbDUPW8Ec79D-dcvd7foEnPtQ8cSLZFHZ9p2kgSZpCy203ye79ETwhbgRv_waC60_lGBAEgCH6lyadeTQhHyeqplyM5yNVt96x-wrOyaUbrf5nvGg4MTQF4avSL1daC-yyfatd6NN3oo9hRA3r0ZP5iky6JNCdpvOsDfdX90CVJAq6W59UbtRo2JwSy0JQOeMSR-3cfaqGLDduQoGduNKX_sHGQB4PrnmNjXgb0dIr-1c5N4wVlQrFJz8J-S4sr4L_ASWky6R2nGmxJjZE8N4a68Z-XvdzfD1391TMBdea_CaIHT0TuFIL_M8ddnAdpW-ZRlhNWhbDKS05X_SqbEEJoc-pF9VBl4WtNFU6Erx5hAwSurufHY6yonCnZsPL3A8Um4WCj5UDzgwYmAeC1XJbVmEiea6hxvED2Bplnbexhky6CNpJNmahLUfEUUwfvKNeJopwC6jW2LQGn4OuE8Rgl1_4NI3sMyvZrzYFTEvEcJDMQDQatGSMY4Y-1xZlgOhKQl14PkdoCFXQAELVK1eiuE5AvHPOjZYYbWGYItESeosxrmMyAKbDXPf77L3Fhh0Qg1kARP2PlMOYzBd4LMdNeaCzL1apzzvZAdf5JFkHvEEXJgkARnTQEbZAcX.d4Yld2gUOVgd4NC7ZQyh4g",
+      "Expected_status": 422,
+      "Expected_statusCode": 422,
+      "Expected_message": "Verification Token is invalid",
+      "Expected_errorCode": "VERIFICATION_TOKEN_INVALID",
+      "Expected_success": " "
+    }
+  ]

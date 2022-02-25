@@ -1,0 +1,5 @@
+export const ValidPassword = 'Admin@123$'
+export const ValidUserid = 'prabhakaran+357@bridgeup.com'
+export const loginTestUrl ='https://app.devbridgeup.com/login'
+export const Authid ='auth.devbridgeup.com'
+export const hasuraid ='api.devbridgeup.com'

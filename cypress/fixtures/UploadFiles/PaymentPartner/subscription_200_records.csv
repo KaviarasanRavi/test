@@ -1,0 +1,705 @@
+customer_identifier,customer_email,customer_name,term_start,term_end,status,billing_period,billing_interval,amount_per_period,customer_created,tax_inclusive,tax_rate
+ac5f367a-e746-4a88-a73b-a85467a3e7bf,aquest0@discuz.net,Aggie Quest,18-02-2021,18-12-2021,ACTIVE,DAY,1,100,18-02-2021,no,10
+baaeb09a-b7f3-4863-909f-42bd4a4044b8,ppettican1@livejournal.com,Peria Pettican,03-12-2019,17-09-2020,DELINQUENT,WEEK,2,1200,03-12-2019,no,10
+209d5298-c653-48c7-9fe7-23331a312a3a,ftyhurst2@yahoo.com,Frederick Tyhurst,27-10-2020,18-03-2021,CHURNED,MONTH,3,5000,27-10-2020,yes,10
+289d5ab3-2add-4477-9e99-e1ecfefe7e12,rvasiliu3@engadget.com,Raf Vasiliu,17-02-2019,03-06-2019,INELIGIBLE,YEAR,1,20000,17-02-2019,yes,10
+8c4d4513-07c5-4c67-a8f2-32f5e2260142,acashford4@ibm.com,Avivah Cashford,08-05-2019,30-01-2020,ACTIVE,YEAR,1,20000,08-05-2019,no,10
+93d411d2-e596-480f-8af4-997c6d9d2dd9,berasmus5@umich.edu,Bill Erasmus,02-08-2020,16-07-2021,DELINQUENT,DAY,1,100,02-08-2020,yes,10
+833c1809-970e-47e8-8ed0-725d1c024eb7,vjuarez6@typepad.com,Vernice Juarez,27-08-2021,20-12-2021,CHURNED,YEAR,1,20000,27-08-2021,yes,10
+7084c8eb-9987-4496-b964-801d879d4a7f,rodam7@vk.com,Ralf Odam,01-01-2021,05-08-2021,INELIGIBLE,MONTH,1,2000,01-01-2021,no,10
+a0af0849-a7bf-470b-90bb-d0984c33fdf6,pnovotne8@hao123.com,Perceval Novotne,11-03-2021,21-10-2021,ACTIVE,MONTH,3,5000,11-03-2021,yes,10
+1f0aac83-f663-42dc-b3a1-e92ece87772d,csheryn9@so-net.ne.jp,Calley Sheryn,13-04-2020,03-07-2020,DELINQUENT,DAY,1,100,13-04-2020,no,10
+e675b051-f5f9-47a0-a20e-b722bb370194,tmacgillaverya@pbs.org,Thaine MacGillavery,15-07-2019,09-11-2019,CHURNED,DAY,1,100,15-07-2019,yes,10
+3639f1ea-6d9b-4d41-a476-037e002cd645,wbarkeb@chron.com,Werner Barke,14-01-2021,05-10-2021,INELIGIBLE,YEAR,1,20000,14-01-2021,yes,10
+1da543df-53e1-4355-b32d-e19004fe9e7c,bbygottc@elegantthemes.com,Bruis Bygott,01-12-2019,02-03-2020,ACTIVE,YEAR,1,20000,01-12-2019,no,10
+b2bb6f65-45d3-4b13-b24e-e03269f5ff7e,ctampend@netvibes.com,Cecelia Tampen,18-09-2021,15-09-2022,DELINQUENT,YEAR,1,20000,18-09-2021,no,10
+66863777-b7b7-4af5-a6f7-2c5a412c4f28,lleimstere@indiegogo.com,Lennie Leimster,25-02-2020,13-02-2021,CHURNED,DAY,1,100,25-02-2020,yes,10
+47c015b1-9142-4e27-a5af-d272e4d0d037,mloveguardf@yandex.ru,Meir Loveguard,03-06-2021,14-02-2022,INELIGIBLE,MONTH,3,5000,03-06-2021,no,10
+03be5df6-9d6f-4179-8cc0-5744ff4be908,nlambellg@360.cn,Nanny Lambell,16-09-2019,17-03-2020,ACTIVE,WEEK,2,1200,16-09-2019,yes,10
+2292802b-c5e9-4b8c-9dd9-7c4d7fa96da2,hortigah@sciencedaily.com,Halsy Ortiga,13-12-2020,25-07-2021,DELINQUENT,DAY,1,100,13-12-2020,no,10
+deab148c-d9b3-4eb7-823a-cb7e5292570a,ijaquemineti@amazon.de,Ilysa Jaqueminet,19-03-2020,28-02-2021,CHURNED,YEAR,1,20000,19-03-2020,no,10
+7f93bddc-884d-4286-8414-0e97abbb3e09,sosbaldestonj@4shared.com,Stafani Osbaldeston,25-12-2020,07-03-2021,INELIGIBLE,YEAR,1,20000,25-12-2020,no,10
+68f4b89c-25a8-43cb-aa9d-a43ad0ce95ba,oemanuelik@noaa.gov,Ortensia Emanueli,09-02-2021,23-12-2021,ACTIVE,MONTH,1,2000,09-02-2021,yes,10
+0d40a132-78f1-4750-ada7-7de8e68d5f30,vgridleyl@timesonline.co.uk,Vale Gridley,03-12-2019,20-03-2020,DELINQUENT,DAY,1,100,03-12-2019,no,10
+dde905da-1049-4544-949e-f92a01ece90f,mnormavellm@ovh.net,Mariquilla Normavell,27-08-2021,17-04-2022,CHURNED,YEAR,1,20000,27-08-2021,no,10
+4d2c18a7-38ac-4d61-9083-f175f43539eb,clorencen@edublogs.org,Charyl Lorence,01-02-2019,14-04-2019,INELIGIBLE,YEAR,1,20000,01-02-2019,no,10
+d67d3550-e5a5-44d3-94ff-ab7b2ccb66e1,lglaspero@weibo.com,Linnet Glasper,06-11-2020,15-06-2021,ACTIVE,MONTH,1,2000,06-11-2020,yes,10
+cc9637b9-a06b-42e3-8374-00d9475b716e,ewinterbornep@ebay.com,Eli Winterborne,28-02-2021,21-05-2021,DELINQUENT,WEEK,2,1200,28-02-2021,no,10
+fd2dfcc4-4788-435f-acaa-b059905674f7,wbramstomq@delicious.com,Witty Bramstom,20-01-2019,11-08-2019,CHURNED,MONTH,3,5000,20-01-2019,yes,10
+ffa775ac-5794-43ef-9d97-00afe28b082a,equilliganr@bloglines.com,Egbert Quilligan,25-05-2020,05-12-2020,INELIGIBLE,WEEK,1,600,25-05-2020,yes,10
+69c85021-3a35-40d1-adf6-9cd866e91af0,cmollers@squidoo.com,Cassie Moller,21-09-2019,29-12-2019,ACTIVE,DAY,1,100,21-09-2019,no,10
+85062f87-a7dc-4e31-90d0-d82146535f71,rcortont@amazonaws.com,Riley Corton,27-03-2021,25-01-2022,DELINQUENT,YEAR,1,20000,27-03-2021,yes,10
+0a8826dd-7e10-494f-be12-e271a0385195,lverneu@msu.edu,La verne Aronstam,08-01-2021,07-06-2021,CHURNED,WEEK,2,1200,08-01-2021,yes,10
+8c88cf3d-61f0-4eb2-9a94-c7f5e9886f82,ltockv@wikia.com,Luciana Tock,25-11-2019,18-03-2020,INELIGIBLE,DAY,1,100,25-11-2019,no,10
+ae54631c-e9f1-4f28-b7ac-8ad3c9dd48f8,flynockw@sfgate.com,Freddi Lynock,24-07-2021,13-05-2022,ACTIVE,MONTH,1,2000,24-07-2021,no,10
+33a88190-beb0-4e2d-94fa-867ef6e00ae3,acerithx@posterous.com,Annette Cerith,20-07-2020,03-07-2021,DELINQUENT,MONTH,3,5000,20-07-2020,yes,10
+b3028fe0-7537-46c6-bb26-d7dff0dd18f0,plegginy@e-recht24.de,Parsifal Leggin,23-12-2019,20-05-2020,CHURNED,YEAR,1,20000,23-12-2019,yes,10
+b294b39e-0690-44db-89c7-c1131f06920d,garlowz@ca.gov,Gaby Arlow,21-09-2019,11-09-2020,INELIGIBLE,WEEK,1,600,21-09-2019,yes,10
+546efde7-19f1-47af-a29f-319ed974608c,dfassbender10@macromedia.com,Delmor Fassbender,10-11-2019,25-03-2020,ACTIVE,WEEK,2,1200,10-11-2019,no,10
+279b5eb4-1bf8-4cd8-9a71-eca666816861,vnears11@biblegateway.com,Vite Nears,06-05-2021,29-12-2021,DELINQUENT,YEAR,1,20000,06-05-2021,yes,10
+50e2733f-2263-42ab-b434-3a47861eb59a,mburdfield12@clickbank.net,Mil Burdfield,06-09-2019,28-11-2019,CHURNED,WEEK,2,1200,06-09-2019,no,10
+5d1af60b-55ec-434c-8ae5-2c723d72ec1a,acamilio13@hao123.com,Angel Camilio,02-05-2019,01-08-2019,INELIGIBLE,WEEK,2,1200,02-05-2019,yes,10
+b8399069-1741-47f2-8862-cb06fe96b225,zsrawley14@weibo.com,Zonnya Srawley,15-02-2021,15-02-2022,ACTIVE,MONTH,1,2000,15-02-2021,no,10
+e9464277-bc2f-431a-8ea3-25a6d9584314,csarvar15@cdc.gov,Colman Sarvar,19-05-2020,04-11-2020,DELINQUENT,DAY,1,100,19-05-2020,no,10
+03533b36-6f33-4758-8996-f54c2f2f5d7e,rgwioneth16@virginia.edu,Ravi Gwioneth,14-12-2019,15-09-2020,CHURNED,MONTH,3,5000,14-12-2019,no,10
+7bf267ff-2a03-41df-bc47-5cb02af3e933,ffidelli17@reuters.com,Fulton Fidelli,05-04-2019,30-12-2019,INELIGIBLE,DAY,1,100,05-04-2019,no,10
+cdc8adf1-4ad3-450f-9470-78f7b1ef28fa,lllopis18@cpanel.net,Lutero Llopis,24-02-2019,28-07-2019,ACTIVE,WEEK,2,1200,24-02-2019,no,10
+73d65693-5a54-4138-a6dd-3cdd63ab3b8b,byounie19@spiegel.de,Bobby Younie,19-02-2019,03-12-2019,DELINQUENT,YEAR,1,20000,19-02-2019,yes,10
+5eea2371-5431-4aaf-ac82-20ef811626ae,ngouge1a@alibaba.com,Niki Gouge,13-11-2019,06-06-2020,CHURNED,MONTH,1,2000,13-11-2019,no,10
+3b63dc9c-023b-4126-8dac-8fbea5b74b3b,mburgh1b@rakuten.co.jp,Marja Burgh,26-11-2021,18-02-2022,INELIGIBLE,MONTH,1,2000,26-11-2021,no,10
+b4b50a95-e97e-4c98-85b0-e11392568479,hgerbl1c@thetimes.co.uk,Hillary Gerbl,14-11-2021,27-02-2022,ACTIVE,YEAR,1,20000,14-11-2021,no,10
+8a3b9cec-771e-40d1-aad8-4df4a9482e75,clettley1d@jigsy.com,Chaunce Lettley,03-10-2021,17-08-2022,DELINQUENT,MONTH,3,5000,03-10-2021,no,10
+b1cca890-188b-480a-a9dc-1ee9f8840584,vyurevich1e@answers.com,Verine Yurevich,07-12-2020,11-03-2021,CHURNED,DAY,1,100,07-12-2020,no,10
+d1f9f602-06b6-4036-a5e0-507d43d5cc9e,drummer1f@sohu.com,Dave Rummer,27-10-2020,03-08-2021,INELIGIBLE,WEEK,2,1200,27-10-2020,no,10
+e2dd7def-9e50-40b8-b7f7-c214c6bbd55f,ikeedy1g@mtv.com,Ilario Keedy,13-07-2020,15-10-2020,ACTIVE,YEAR,1,20000,13-07-2020,no,10
+66dea096-aa7a-4500-8af6-aaed560928dd,geddins1h@ebay.co.uk,Georgia Eddins,10-09-2019,28-11-2019,DELINQUENT,YEAR,1,20000,10-09-2019,yes,10
+b9a4338f-6bcc-4485-9039-6bd0c44e1cca,mmazey1i@macromedia.com,Missy Mazey,10-10-2021,07-09-2022,CHURNED,MONTH,1,2000,10-10-2021,no,10
+1e1efae3-beaf-41bd-80c8-3e803a6686bf,ngrasner1j@harvard.edu,Natalie Grasner,22-12-2019,05-07-2020,INELIGIBLE,MONTH,1,2000,22-12-2019,no,10
+ac46b9d5-ecfc-4c7c-8836-847d7f387f39,tillingworth1k@topsy.com,Torre Illingworth,30-09-2019,10-06-2020,ACTIVE,YEAR,1,20000,30-09-2019,no,10
+c8f1be85-2637-41b0-b93c-4f076318d4b5,rthalmann1l@wix.com,Rita Thalmann,25-11-2020,24-01-2021,DELINQUENT,WEEK,2,1200,25-11-2020,no,10
+87be0926-aaa8-4ce8-a9a7-e1641a34eb1a,gsillis1m@prlog.org,Gretchen Sillis,03-06-2020,30-03-2021,CHURNED,WEEK,1,600,03-06-2020,no,10
+070b61db-0c13-47e6-be30-accab077f0aa,ajeannet1n@github.io,Abel Jeannet,22-01-2020,18-06-2020,INELIGIBLE,YEAR,1,20000,22-01-2020,no,10
+29b4ea33-68f7-4127-ae31-9223b0b46942,josharry1o@nymag.com,Jan O'Sharry,02-06-2021,10-02-2022,ACTIVE,YEAR,1,20000,02-06-2021,yes,10
+03f3a99c-f52a-44a9-b8fb-5a2e449c194c,packlands1p@upenn.edu,Peyter Acklands,22-03-2020,26-05-2020,DELINQUENT,WEEK,1,600,22-03-2020,yes,10
+d2e9dade-5fdb-4a5a-b538-9e9820a422dd,bjacobovitch1q@mozilla.org,Boony Jacobovitch,09-01-2020,11-10-2020,CHURNED,YEAR,1,20000,09-01-2020,yes,10
+2eaa166d-c71c-40fa-8432-408dbf9d823f,mforce1r@soup.io,Marchall Force,19-07-2021,17-07-2022,INELIGIBLE,DAY,1,100,19-07-2021,yes,10
+c4908e42-e7f1-45ab-8a0a-a774f97ad1a7,hdearth1s@gmpg.org,Hanan Dearth,07-11-2021,08-02-2022,ACTIVE,MONTH,1,2000,07-11-2021,no,10
+375eca2f-224b-4098-8770-5f2adbbaf7d1,gstow1t@spotify.com,Gerladina Stow,13-03-2019,18-12-2019,DELINQUENT,MONTH,3,5000,13-03-2019,no,10
+edfc03db-756f-4b26-ae4a-7ca26565390e,bgreenaway1u@tumblr.com,Belva Greenaway,02-04-2020,07-07-2020,CHURNED,YEAR,1,20000,02-04-2020,yes,10
+c4494815-ba5d-4c2c-bb15-cc6f5164c317,acastaneda1v@wikipedia.org,Ameline Castaneda,30-05-2019,20-02-2020,INELIGIBLE,DAY,1,100,30-05-2019,no,10
+8c56496e-aaf9-4155-ab90-16cbc15cedcc,ccromett1w@istockphoto.com,Catherin Cromett,22-11-2021,11-03-2022,ACTIVE,WEEK,1,600,22-11-2021,yes,10
+8913e906-88be-4a0d-95a8-ed383f0aebb9,aivery1x@qq.com,Alverta Ivery,04-05-2019,21-08-2019,DELINQUENT,MONTH,1,2000,04-05-2019,no,10
+55466c54-ff37-4255-bd02-628a619e6f34,spollett1y@so-net.ne.jp,Sarena Pollett,22-07-2020,15-03-2021,CHURNED,WEEK,2,1200,22-07-2020,no,10
+8aca03c2-4d08-4604-8347-4c0c52014afd,tlightbourn1z@reverbnation.com,Terra Lightbourn,15-04-2020,13-09-2020,INELIGIBLE,DAY,1,100,15-04-2020,yes,10
+c873194a-5efd-4347-a4ee-f478976a662b,scunnah20@google.co.uk,Sari Cunnah,23-06-2020,31-01-2021,ACTIVE,WEEK,1,600,23-06-2020,no,10
+cc08d6cf-669d-4aed-95e8-ac9c6e03966b,gweich21@privacy.gov.au,Gilberta Weich,05-03-2021,13-11-2021,DELINQUENT,YEAR,1,20000,05-03-2021,yes,10
+1fc0864d-3e81-48c6-b63a-e555446d5c3f,kbackshill22@wisc.edu,Kordula Backshill,23-02-2020,17-05-2020,CHURNED,DAY,1,100,23-02-2020,no,10
+b14c357a-2b4d-4074-8faf-2d197f894293,klacy23@berkeley.edu,Karalynn Lacy,17-08-2021,04-05-2022,INELIGIBLE,YEAR,1,20000,17-08-2021,no,10
+38bed4a5-5ade-43a7-a656-a16d3ca1dbcd,pinsko24@cornell.edu,Priscella Insko,30-10-2021,26-03-2022,ACTIVE,MONTH,1,2000,30-10-2021,no,10
+372061ae-cd4b-4c07-978e-8d22032f64b1,adome25@miitbeian.gov.cn,Ainslie Dome,05-07-2020,27-03-2021,DELINQUENT,WEEK,2,1200,05-07-2020,yes,10
+d43e615c-da6c-4b04-85d9-96160389e146,eeastwell26@apple.com,Evelin Eastwell,10-03-2021,11-02-2022,CHURNED,YEAR,1,20000,10-03-2021,no,10
+ddd32b12-b2d6-4fbf-a426-a89a79119e8b,wbather27@privacy.gov.au,Wat Bather,20-08-2020,17-12-2020,INELIGIBLE,YEAR,1,20000,20-08-2020,yes,10
+81f455ef-abf5-4f46-9b8f-ae9049a8b303,lflattman28@spiegel.de,Lyda Flattman,22-08-2021,17-01-2022,ACTIVE,YEAR,1,20000,22-08-2021,no,10
+fb729663-96a5-4922-bf06-108c16d2d405,kmacleese29@spiegel.de,Kurtis MacLeese,18-01-2020,30-09-2020,DELINQUENT,MONTH,1,2000,18-01-2020,no,10
+c54f1d7e-1a86-4aff-9812-c80b04682fb1,ktruesdale2a@etsy.com,Kasey Truesdale,28-09-2019,15-06-2020,CHURNED,DAY,1,100,28-09-2019,yes,10
+2c5b8f73-191f-42a7-8b44-7d297ee873de,sgrishanov2b@yahoo.co.jp,Shayla Grishanov,06-06-2020,25-01-2021,INELIGIBLE,YEAR,1,20000,06-06-2020,no,10
+302fab09-0c94-4d1b-9064-744db2d99f22,breaman2c@weibo.com,Bertrand Reaman,20-05-2021,22-04-2022,ACTIVE,YEAR,1,20000,20-05-2021,no,10
+ab69df58-098f-480e-8759-a25e39ef35a9,aattfield2d@pbs.org,Adolf Attfield,11-10-2019,08-09-2020,DELINQUENT,MONTH,1,2000,11-10-2019,yes,10
+c7c5eb96-4e30-4919-bd09-77dfa983c745,ndainton2e@ezinearticles.com,Niko Dainton,14-02-2021,20-09-2021,CHURNED,YEAR,1,20000,14-02-2021,yes,10
+21f6dec6-c5b2-41cd-a51c-72c49e0f19de,qdizlie2f@addthis.com,Quinton Dizlie,27-08-2019,15-12-2019,INELIGIBLE,YEAR,1,20000,27-08-2019,yes,10
+3bec74a0-55d4-44b4-bf04-eddc994948a0,rgeorgiades2g@cisco.com,Rey Georgiades,26-07-2019,20-01-2020,ACTIVE,YEAR,1,20000,26-07-2019,yes,10
+8fc5eaa2-ce73-428d-a90c-25d52522fad4,taimson2h@vk.com,Tybalt Aimson,07-08-2020,08-01-2021,DELINQUENT,YEAR,1,20000,07-08-2020,yes,10
+f9eff60f-9b46-4ca2-9c8a-3a3712d94145,myarrell2i@marketwatch.com,Meg Yarrell,28-09-2019,13-03-2020,CHURNED,DAY,1,100,28-09-2019,yes,10
+7ac828d4-dd3b-41dc-9e85-13da9a80ecdf,dbrooker2j@cnn.com,Donny Brooker,05-08-2021,30-10-2021,INELIGIBLE,WEEK,1,600,05-08-2021,yes,10
+559ff06d-8abb-4a4a-819b-3ae82f9e8ef5,pomeara2k@de.vu,Patrizio O'Meara,18-04-2019,05-10-2019,ACTIVE,WEEK,1,600,18-04-2019,no,10
+7d68cd0b-e5b3-4d7f-80db-f7d6c8972707,acavendish2l@clickbank.net,Ardath Cavendish,18-05-2020,12-08-2020,DELINQUENT,MONTH,1,2000,18-05-2020,yes,10
+3ed9c54d-0989-4ac3-ae10-010566b5cef6,ocoleford2m@jiathis.com,Olin Coleford,13-01-2019,18-09-2019,CHURNED,DAY,1,100,13-01-2019,yes,10
+866f13d0-9e68-4aa0-9ca9-f525e2ce5579,hclawson2n@walmart.com,Hilary Clawson,25-11-2019,06-09-2020,INELIGIBLE,WEEK,2,1200,25-11-2019,yes,10
+909bc50c-abfd-43ba-849f-9ab3139e808c,mmatzaitis2o@jimdo.com,Marlin Matzaitis,02-02-2020,16-04-2020,ACTIVE,YEAR,1,20000,02-02-2020,no,10
+d6ca947e-f9fc-4279-a889-ee57a4ab2c35,sskurm2p@abc.net.au,Stefano Skurm,05-10-2021,21-02-2022,DELINQUENT,WEEK,2,1200,05-10-2021,no,10
+16e342de-bca3-4205-86f8-a6e0317d0a7f,sshenfish2q@reverbnation.com,Sallyann Shenfish,15-02-2021,03-09-2021,CHURNED,WEEK,2,1200,15-02-2021,no,10
+ac05da4a-437b-4065-b80f-19ded4a903bb,nstutard2r@youtube.com,Natalya Stutard,30-03-2020,04-07-2020,INELIGIBLE,DAY,1,100,30-03-2020,yes,10
+babb5618-a954-4fae-a663-347679b47323,dtonepohl0@amazon.co.jp,Dionysus Tonepohl,07-10-2019,25-01-2020,ACTIVE,MONTH,1,2000,07-10-2019,yes,10
+bb8bbb2b-99f5-44f7-beb4-84712cd31b09,fbodill1@tripod.com,Franni Bodill,05-12-2020,07-11-2021,DELINQUENT,DAY,1,100,05-12-2020,yes,10
+6c9c97e8-c70a-4854-802a-fcfb12e48c0a,gmcevilly2@dagondesign.com,George McEvilly,22-07-2020,26-03-2021,CHURNED,WEEK,2,1200,22-07-2020,yes,10
+1310f5d6-e911-428d-b175-7c387e5f34e1,bkirkpatrick3@nba.com,Bryn Kirkpatrick,15-03-2019,23-09-2019,INELIGIBLE,YEAR,1,20000,15-03-2019,yes,10
+c9cb52d7-e11b-472d-ae61-bb6f09bdfb0b,haylin4@opera.com,Harland Aylin,04-09-2019,15-12-2019,ACTIVE,DAY,1,100,04-09-2019,yes,10
+358fa1a8-c3ee-4267-a9dc-d970df6be6ac,imconie5@nationalgeographic.com,Ives McOnie,22-02-2021,27-11-2021,DELINQUENT,YEAR,1,20000,22-02-2021,yes,10
+387f025b-d47d-443c-b85c-ec83233d7c50,dmattes6@umich.edu,Darin Mattes,25-11-2021,24-02-2022,CHURNED,MONTH,1,2000,25-11-2021,yes,10
+26b7df70-376e-4258-a0e1-0a5998281670,sarundel7@census.gov,Stewart Arundel,21-07-2020,20-04-2021,INELIGIBLE,WEEK,2,1200,21-07-2020,yes,10
+5d163569-43a3-42d2-8d9d-147ed7ab01b5,nmcnabb8@va.gov,Nathalia McNabb,24-08-2019,27-10-2019,ACTIVE,MONTH,1,2000,24-08-2019,yes,10
+73096df9-d80f-4a23-b5c0-63ab888ce09e,ijanacek9@google.it,Ingeborg Janacek,15-02-2020,11-02-2021,DELINQUENT,MONTH,6,10000,15-02-2020,yes,10
+150f7d3c-f7f7-47c9-b105-d119a8091373,nfranksa@nps.gov,Nicko Franks,24-09-2019,17-12-2019,CHURNED,WEEK,1,600,24-09-2019,yes,10
+4edf5627-e986-443f-ad10-bdf93531ea96,egroveb@usnews.com,Eartha Grove,20-03-2021,15-06-2021,INELIGIBLE,DAY,1,100,20-03-2021,yes,10
+6fbe0438-dec0-4b70-959f-60dc89d05aca,srubroec@stanford.edu,Sarajane Rubroe,03-05-2021,25-02-2022,ACTIVE,DAY,1,100,03-05-2021,yes,10
+27fc31d3-412e-4499-9bc9-85f8abff6e12,pruoffd@oracle.com,Peg Ruoff,25-05-2020,22-01-2021,DELINQUENT,MONTH,1,2000,25-05-2020,yes,10
+c796a134-b65c-4cf2-8962-7bce41e8a474,swheale@naver.com,Sybyl Wheal,02-02-2021,24-11-2021,CHURNED,YEAR,1,20000,02-02-2021,yes,10
+1ca0b2fc-6d8d-4525-b00b-a49295fd8b3d,gdimondf@wix.com,Guillemette Dimond,23-03-2020,16-03-2021,INELIGIBLE,DAY,1,100,23-03-2020,yes,10
+c3ca0f16-edf8-4598-afc1-141131482f14,gmacalping@facebook.com,Gaspard MacAlpin,12-12-2020,19-05-2021,ACTIVE,DAY,1,100,12-12-2020,yes,10
+adccf24f-dee5-4bdb-95b0-8335898d7c04,lbruckentalh@cloudflare.com,Leicester Bruckental,21-11-2019,22-10-2020,DELINQUENT,MONTH,1,2000,21-11-2019,yes,10
+a036fb5f-ac8e-4815-b041-83ef3dfd5cc0,rpotapczuki@umn.edu,Roddy Potapczuk,28-10-2020,13-02-2021,CHURNED,DAY,1,100,28-10-2020,yes,10
+b480fb99-7102-4e7f-8231-f4d46c584ca6,jfieldingj@webnode.com,Jozef Fielding,30-01-2020,01-08-2020,INELIGIBLE,MONTH,6,10000,30-01-2020,yes,10
+e49d8613-5199-4bab-bef7-c8929220cac6,jserlek@patch.com,Janeta Serle,25-07-2019,24-11-2019,ACTIVE,WEEK,2,1200,25-07-2019,yes,10
+e79c95e7-ad41-46cb-8de0-52328c1db47b,asplainl@harvard.edu,Alric Splain,11-11-2021,20-04-2022,DELINQUENT,MONTH,1,2000,11-11-2021,yes,10
+935e49d4-4566-4d47-a03e-e5314b61290b,falleburtonm@timesonline.co.uk,Fremont Alleburton,30-03-2021,18-11-2021,CHURNED,WEEK,1,600,30-03-2021,yes,10
+aaadb48d-050b-494a-a19a-f70445fc04d6,cridpathn@icio.us,Christian Ridpath,27-06-2020,14-12-2020,INELIGIBLE,MONTH,1,2000,27-06-2020,yes,10
+23788c88-e068-4222-b7ad-9d5de7d7e696,cberrieo@ocn.ne.jp,Candida Berrie,08-09-2020,16-03-2021,ACTIVE,DAY,1,100,08-09-2020,yes,10
+6c90e4d3-1451-4214-b5e5-cf4c742b15a6,edunbobbinp@unblog.fr,Elfie Dunbobbin,23-10-2019,23-08-2020,DELINQUENT,YEAR,1,20000,23-10-2019,yes,10
+b1b5c4d8-6c01-4ed1-a7f2-b92b3becd810,kstonuaryq@addthis.com,Kelwin Stonuary,17-07-2019,07-12-2019,CHURNED,YEAR,1,20000,17-07-2019,yes,10
+df4e9f18-345b-4255-a822-e17521380b67,hcarrierr@a8.net,Hunfredo Carrier,11-05-2019,12-08-2019,INELIGIBLE,YEAR,1,20000,11-05-2019,yes,10
+0658eb96-af57-41ef-ae15-3ea877c0d787,lbreakspears@cargocollective.com,Land Breakspear,24-11-2021,03-09-2022,ACTIVE,WEEK,2,1200,24-11-2021,yes,10
+7f8d35f6-b246-498d-be94-7746d186807e,kjakolevitcht@t.co,Korie Jakolevitch,01-04-2020,26-01-2021,DELINQUENT,DAY,1,100,01-04-2020,yes,10
+74280ada-24c1-4232-b664-2ec08196e4f0,gdeu@adobe.com,Gwen De Luna,20-09-2021,23-12-2021,CHURNED,YEAR,1,20000,20-09-2021,yes,10
+04aa91e7-2c97-4bd9-bdaa-c61d511fc667,bschabenv@dyndns.org,Boigie Schaben,29-07-2019,10-12-2019,INELIGIBLE,YEAR,1,20000,29-07-2019,yes,10
+cac45cb4-4ecf-4a58-be3f-c793527390c8,agoodinsonw@usatoday.com,Alisa Goodinson,24-03-2020,06-07-2020,ACTIVE,DAY,1,100,24-03-2020,yes,10
+54ff6cc2-8312-42fc-9434-6aab1bbf9e38,donslowx@whitehouse.gov,Dix Onslow,01-03-2020,15-12-2020,DELINQUENT,MONTH,3,5000,01-03-2020,yes,10
+9e345e37-45c8-4a56-b9e7-4041a98f2f29,fgotecliffey@woothemes.com,Fianna Gotecliffe,08-09-2021,16-11-2021,CHURNED,MONTH,6,10000,08-09-2021,yes,10
+e2fe0d83-1262-4ad9-8a57-6cdcda710ff8,jneavesz@canalblog.com,Johannes Neaves,31-08-2021,07-06-2022,INELIGIBLE,WEEK,2,1200,31-08-2021,yes,10
+99131110-7623-48f2-ae71-729dcef1633e,cmc10@macromedia.com,Clementia Mc Dermid,09-02-2019,13-01-2020,ACTIVE,DAY,1,100,09-02-2019,yes,10
+d4e11352-92ad-4c77-b4d8-78af75748a08,dzellner11@utexas.edu,Dorice Zellner,22-04-2020,31-03-2021,DELINQUENT,DAY,1,100,22-04-2020,yes,10
+389b9d2b-7e89-467d-b619-359accf9c12c,rde12@utexas.edu,Rollins de Mendoza,08-05-2021,19-11-2021,CHURNED,DAY,1,100,08-05-2021,yes,10
+ca3d1ef6-d9fb-445a-ac82-113bca6e1573,aleele13@howstuffworks.com,Anatol Leele,26-07-2021,05-04-2022,INELIGIBLE,YEAR,1,20000,26-07-2021,yes,10
+3c1e1bf5-cd33-4c97-9909-eb8dfea509fb,lperel14@army.mil,Linnie Perel,02-03-2020,14-01-2021,ACTIVE,YEAR,1,20000,02-03-2020,yes,10
+615ea88c-5a62-406e-a7a4-9bcb4b066bac,ebootyman15@posterous.com,Emmeline Bootyman,07-09-2020,21-06-2021,DELINQUENT,DAY,1,100,07-09-2020,yes,10
+f3424560-2fb3-4924-aa6c-05d8f69f3ccc,cwickie16@sbwire.com,Candide Wickie,22-10-2020,06-09-2021,CHURNED,WEEK,2,1200,22-10-2020,yes,10
+56fac703-2218-4539-b529-e2a0958ef60e,ffreed17@instagram.com,Franz Freed,10-02-2021,19-11-2021,INELIGIBLE,YEAR,1,20000,10-02-2021,yes,10
+ff9fe60e-4388-4b14-9811-e70f1827f938,aboat18@wikimedia.org,Avigdor Boat,09-05-2019,22-02-2020,ACTIVE,WEEK,1,600,09-05-2019,yes,10
+75bc5738-817c-4f27-90ce-10515de881bf,lsaterweyte19@drupal.org,Leif Saterweyte,03-03-2020,01-10-2020,DELINQUENT,YEAR,1,20000,03-03-2020,yes,10
+4d97d2bc-2a5a-4b45-99eb-8c7b256c466b,mjacobbe1a@miibeian.gov.cn,Mary Jacobbe,04-08-2021,29-12-2021,CHURNED,MONTH,1,2000,04-08-2021,yes,10
+043850f0-218a-4ad7-8fa9-5b3183bff845,jsolley1b@archive.org,Joe Solley,23-02-2021,17-05-2021,INELIGIBLE,YEAR,1,20000,23-02-2021,yes,10
+0ec2c93b-7fc9-4ac6-a36e-c6913641d5f0,pbattill1c@umich.edu,Pansy Battill,29-09-2021,20-07-2022,ACTIVE,MONTH,1,2000,29-09-2021,yes,10
+3190f002-b10e-45a6-ba57-593a360836c1,dfeldhammer1d@google.co.jp,Dorette Feldhammer,18-07-2021,07-05-2022,DELINQUENT,WEEK,2,1200,18-07-2021,yes,10
+e28a4d17-db4e-40bc-ad6f-3fc36b86b59a,rrickaert1e@odnoklassniki.ru,Ramona Rickaert,19-03-2020,15-07-2020,CHURNED,MONTH,1,2000,19-03-2020,yes,10
+7864a0f0-7084-4776-83cb-59e5d20fe4aa,pocanavan1f@tripadvisor.com,Phillipp O'Canavan,15-01-2020,12-09-2020,INELIGIBLE,YEAR,1,20000,15-01-2020,yes,10
+fa6f820b-8993-49dc-ba11-4840ce421874,lgocke1g@hugedomains.com,Lyman Gocke,23-11-2021,07-05-2022,ACTIVE,MONTH,1,2000,23-11-2021,yes,10
+01cc04e9-b476-4b48-88fd-8b4f8b13b6b2,hcapelin1h@skyrock.com,Hogan Capelin,16-06-2021,19-11-2021,DELINQUENT,YEAR,1,20000,16-06-2021,yes,10
+45483166-2ac7-48cc-a9f6-6383f141c87d,cgobel1i@bbb.org,Carree Gobel,25-05-2020,21-11-2020,CHURNED,YEAR,1,20000,25-05-2020,yes,10
+cd14bf93-bc2b-497c-a776-289b42fe894b,hkendrick1j@examiner.com,Hildagarde Kendrick,02-01-2019,01-07-2019,INELIGIBLE,WEEK,1,600,02-01-2019,yes,10
+746eee31-65ef-40be-8d68-cbd241bf5470,dchapelhow1k@tmall.com,Dusty Chapelhow,17-02-2020,04-06-2020,ACTIVE,MONTH,6,10000,17-02-2020,yes,10
+782509b9-56fa-4c22-8df0-f31ea3bcdec6,mizzatt1l@4shared.com,Mufi Izzatt,02-07-2019,13-02-2020,DELINQUENT,DAY,1,100,02-07-2019,yes,10
+340764a6-54e1-43fc-9088-f3ec54e53533,mgorton1m@independent.co.uk,Marlo Gorton,27-03-2019,12-12-2019,CHURNED,DAY,1,100,27-03-2019,yes,10
+9aed8101-bab1-40c1-b580-bbffb55ef707,gde1n@dedecms.com,Garner de Copeman,29-06-2021,16-03-2022,INELIGIBLE,DAY,1,100,29-06-2021,yes,10
+643aec7c-419b-4a83-a4f1-c9e16ebbdff5,bloakes1o@instagram.com,Berti Loakes,27-03-2019,07-07-2019,ACTIVE,DAY,1,100,27-03-2019,yes,10
+f126f787-5ae5-4186-aee5-a1a730f05bb1,icampbell1p@virginia.edu,Ivie Campbell,17-11-2021,23-01-2022,DELINQUENT,YEAR,1,20000,17-11-2021,yes,10
+28197d2d-eec6-4703-b05b-a7f1bd07a698,cbridgwood1q@homestead.com,Cecily Bridgwood,08-10-2020,30-01-2021,CHURNED,WEEK,2,1200,08-10-2020,yes,10
+661bf5be-1b1c-4f01-b933-a9fa4372cd13,qcuesta1r@storify.com,Quillan Cuesta,10-03-2021,11-07-2021,INELIGIBLE,MONTH,1,2000,10-03-2021,yes,10
+1a8cec41-ff65-42f7-b0fd-096e54651dd7,jlundberg1s@seattletimes.com,Jocelyne Lundberg,16-10-2020,06-02-2021,ACTIVE,DAY,1,100,16-10-2020,yes,10
+bc1a93c4-d24a-4110-b33e-ba2d8bdd7588,rbeels1t@slideshare.net,Randi Beels,24-11-2019,03-06-2020,DELINQUENT,DAY,1,100,24-11-2019,yes,10
+918d8df6-e751-43b4-b5e3-ab8e466deb10,evoas1u@biglobe.ne.jp,Essie Voas,28-12-2020,11-08-2021,CHURNED,MONTH,3,5000,28-12-2020,yes,10
+fb124cbc-3a61-453b-a55d-b2e74d614c45,aelies1v@g.co,Aeriel Elies,04-06-2019,14-10-2019,INELIGIBLE,YEAR,1,20000,04-06-2019,yes,10
+ad5ae855-9f93-4618-82a3-f4cd43844e6c,blorenc1w@virginia.edu,Beale Lorenc,15-03-2021,16-11-2021,ACTIVE,WEEK,2,1200,15-03-2021,yes,10
+d740eaf2-96d2-4e85-909c-1ef53c9e0d45,troglieri1x@paginegialle.it,Temple Roglieri,04-01-2020,19-06-2020,DELINQUENT,YEAR,1,20000,04-01-2020,yes,10
+d93f12e4-45be-4e50-838b-ac3bf155d8ac,bgiottoi1y@senate.gov,Bobbie Giottoi,07-12-2019,05-06-2020,CHURNED,MONTH,3,5000,07-12-2019,yes,10
+1089d4ad-e012-43f6-a5b3-f7893248d7db,csavery1z@scribd.com,Codee Savery,10-01-2019,07-11-2019,INELIGIBLE,MONTH,1,2000,10-01-2019,yes,10
+ff5e1f06-1bef-4401-b82c-9ab4fb7c788d,mshipway20@purevolume.com,Mercy Shipway,22-07-2020,25-02-2021,ACTIVE,MONTH,1,2000,22-07-2020,yes,10
+4f1151a3-2127-4864-a208-eb41e57e570a,bbaudy21@prlog.org,Bibi Baudy,17-02-2020,05-06-2020,DELINQUENT,YEAR,1,20000,17-02-2020,yes,10
+aef30eaf-adf6-4c65-a5ce-e0b06d6ae693,tepiscopi22@qq.com,Tye Episcopi,09-03-2021,25-05-2021,CHURNED,YEAR,1,20000,09-03-2021,yes,10
+1c59587d-e2d5-47bf-ac41-b58884d828f6,ocauston23@smh.com.au,Osgood Causton,14-05-2021,19-02-2022,INELIGIBLE,DAY,1,100,14-05-2021,yes,10
+7d1b9346-386f-47c2-a92f-bb2bc5d020ae,bknight24@marriott.com,Berry Knight,14-07-2020,10-04-2021,ACTIVE,YEAR,1,20000,14-07-2020,yes,10
+e4b5fa64-ac78-464d-8d47-926caa3faeb7,lpionter25@wisc.edu,Laryssa Pionter,16-02-2019,26-01-2020,DELINQUENT,WEEK,2,1200,16-02-2019,yes,10
+43b7d05f-6c8c-4a86-ab46-6a3cb40fe6d5,ataveriner26@google.com.au,Amelita Taveriner,25-11-2021,16-05-2022,CHURNED,WEEK,2,1200,25-11-2021,yes,10
+58bd51bc-8454-467d-9415-7aba29964f00,lskokoe27@squidoo.com,Lindsay Skokoe,17-10-2019,05-01-2020,INELIGIBLE,MONTH,1,2000,17-10-2019,yes,10
+f34baaad-3b37-4567-8d0a-a028970fa7e5,lelijah28@prweb.com,Leeland Elijah,30-09-2019,03-09-2020,ACTIVE,DAY,1,100,30-09-2019,yes,10
+21795607-f59a-41ce-a401-164d961e7b77,itacker29@desdev.cn,Isidor Tacker,30-01-2021,29-12-2021,DELINQUENT,YEAR,1,20000,30-01-2021,yes,10
+e67079c2-9450-4475-a576-a34386c6153b,jguye2a@themeforest.net,Jason Guye,16-08-2021,09-06-2022,CHURNED,WEEK,1,600,16-08-2021,yes,10
+d6b98fd5-82c6-4092-96cf-1d942d51589c,akuhle2b@dot.gov,Aimee Kuhle,21-08-2019,23-11-2019,INELIGIBLE,MONTH,1,2000,21-08-2019,yes,10
+c6fe3ab6-0e0d-4e15-b4f9-328c9678beef,sbrocking2c@jalbum.net,Shalom Brocking,19-07-2020,25-10-2020,ACTIVE,YEAR,1,20000,19-07-2020,yes,10
+8b66197b-c38a-45d7-bbba-866b96d55390,pfleet2d@w3.org,Pat Fleet,19-08-2021,10-01-2022,DELINQUENT,DAY,1,100,19-08-2021,yes,10
+709dea5d-1c47-471c-ad94-761d728b65f2,lastill2e@yahoo.com,Linn Astill,22-05-2021,07-04-2022,CHURNED,YEAR,1,20000,22-05-2021,yes,10
+7c1e41a3-530e-4152-9410-2e0aadcda8ab,lgourlie2f@seesaa.net,Lynnette Gourlie,06-04-2021,15-11-2021,INELIGIBLE,YEAR,1,20000,06-04-2021,yes,10
+b822475f-9c32-4915-8102-fccb54503ab8,ekiefer2g@washingtonpost.com,Elwood Kiefer,06-02-2019,31-12-2019,ACTIVE,MONTH,1,2000,06-02-2019,yes,10
+569134e2-dc6b-4227-a9a8-b8b43a14d72c,ssandy2h@mlb.com,Sharity Sandy,29-03-2021,06-12-2021,DELINQUENT,MONTH,1,2000,29-03-2021,yes,10
+167b26f8-ea26-4a2b-99b5-d190391a312c,sjinkins2i@fotki.com,Sari Jinkins,06-05-2020,31-01-2021,CHURNED,MONTH,3,5000,06-05-2020,yes,10
+c6df4fc8-4393-4c9f-8440-a80d6c081372,rfaers2j@pagesperso-orange.fr,Rodd Faers,27-04-2021,16-03-2022,INELIGIBLE,MONTH,1,2000,27-04-2021,yes,10
+8d8035b0-07c4-476e-9196-70a34687aca3,nhansill2k@disqus.com,Norry Hansill,22-06-2021,09-06-2022,ACTIVE,WEEK,2,1200,22-06-2021,yes,10
+22f248a5-4ee8-4e54-b993-e4941e8bbc22,jhealeas2l@newyorker.com,Jillane Healeas,23-02-2020,08-01-2021,DELINQUENT,MONTH,3,5000,23-02-2020,yes,10
+2f58fb67-191c-4f9f-a8e5-2840d6a5e9dc,mmaccarlich2m@jimdo.com,Modesty MacCarlich,09-06-2019,29-08-2019,CHURNED,DAY,1,100,09-06-2019,yes,10
+c7739a18-9ef1-467a-9997-cbcd1493afc1,hlittley2n@google.cn,Humbert Littley,28-05-2020,06-12-2020,INELIGIBLE,MONTH,1,2000,28-05-2020,yes,10
+c76ceaa0-b681-46e8-8d6a-341e02b5804d,gbrownbridge2o@angelfire.com,Gustie Brownbridge,11-05-2019,14-04-2020,ACTIVE,WEEK,2,1200,11-05-2019,yes,10
+ecd31b3c-5bbf-4ab1-9607-56d34d7ccfb6,ajinda2p@nps.gov,Ange Jinda,16-12-2020,12-09-2021,DELINQUENT,WEEK,1,600,16-12-2020,yes,10
+59f20c21-81c0-48f5-add6-41f36ccfce56,jrechert2q@gravatar.com,Jerrold Rechert,11-01-2021,10-07-2021,CHURNED,YEAR,1,20000,11-01-2021,yes,10
+40676813-6b48-4183-9d78-1dac29f3c842,scadman2r@springer.com,Sallyann Cadman,20-01-2020,03-10-2020,INELIGIBLE,MONTH,1,2000,20-01-2020,yes,10
+40676813-6b48-4183-9d78-1dac29f3c843,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c844,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c845,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c846,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c847,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c848,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c849,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c850,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c851,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c852,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c853,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c854,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c855,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c856,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c857,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c858,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c859,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c860,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c861,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c862,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c863,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c864,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c865,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c866,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c867,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c868,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c869,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c870,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c871,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c872,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c873,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c874,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c875,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c876,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c877,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c878,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c879,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c880,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c881,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c882,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c883,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c884,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c885,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c886,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c887,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c888,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c889,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c890,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c891,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c892,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c893,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c894,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c895,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c896,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c897,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c898,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c899,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c900,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c901,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c902,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c903,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c904,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c905,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c906,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c907,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c908,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c909,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c910,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c911,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c912,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c913,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c914,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c915,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c916,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c917,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c918,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c919,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c920,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c921,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c922,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c923,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c924,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c925,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c926,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c927,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c928,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c929,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c930,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c931,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c932,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c933,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c934,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c935,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c936,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c937,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c938,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c939,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c940,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c941,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c942,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c943,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c944,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c945,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c946,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c947,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c948,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c949,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c950,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c951,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c952,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c953,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c954,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c955,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c956,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c957,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c958,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c959,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c960,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c961,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c962,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c963,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c964,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c965,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c966,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c967,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c968,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c969,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c970,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c971,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c972,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c973,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c974,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c975,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c976,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c977,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c978,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c979,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c980,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c981,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c982,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c983,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c984,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c985,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c986,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c987,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c988,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c989,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c990,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c991,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c992,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c993,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c994,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c995,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c996,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c997,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c998,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c999,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1000,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1001,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1002,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1003,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1004,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1005,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1006,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1007,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1008,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1009,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1010,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1011,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1012,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1013,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1014,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1015,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1016,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1017,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1018,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1019,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1020,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1021,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1022,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1023,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1024,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1025,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1026,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1027,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1028,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1029,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1030,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1031,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1032,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1033,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1034,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1035,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1036,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1037,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1038,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1039,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1040,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1041,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1042,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1043,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1044,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1045,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1046,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1047,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1048,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1049,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1050,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1051,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1052,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1053,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1054,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1055,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1056,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1057,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1058,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1059,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1060,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1061,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1062,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1063,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1064,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1065,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1066,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1067,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1068,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1069,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1070,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1071,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1072,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1073,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1074,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1075,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1076,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1077,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1078,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1079,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1080,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1081,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1082,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1083,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1084,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1085,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1086,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1087,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1088,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1089,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1090,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1091,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1092,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1093,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1094,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1095,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1096,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1097,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1098,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1099,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1100,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1101,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1102,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1103,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1104,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1105,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1106,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1107,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1108,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1109,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1110,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1111,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1112,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1113,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1114,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1115,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1116,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1117,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1118,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1119,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1120,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1121,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1122,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1123,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1124,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1125,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1126,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1127,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1128,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1129,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1130,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1131,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1132,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1133,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1134,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1135,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1136,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1137,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1138,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1139,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1140,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1141,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1142,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1143,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1144,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1145,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1146,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1147,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1148,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1149,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1150,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1151,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1152,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1153,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1154,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1155,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1156,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1157,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1158,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1159,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1160,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1161,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1162,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1163,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1164,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1165,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1166,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1167,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1168,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1169,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1170,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1171,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1172,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1173,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1174,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1175,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1176,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1177,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1178,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1179,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1180,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1181,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1182,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1183,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1184,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1185,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1186,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1187,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1188,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1189,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1190,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1191,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1192,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1193,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1194,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1195,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1196,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1197,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1198,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1199,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1200,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1201,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1202,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1203,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1204,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1205,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1206,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1207,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1208,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1209,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1210,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1211,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1212,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1213,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1214,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1215,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1216,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1217,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1218,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1219,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1220,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1221,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1222,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1223,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1224,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1225,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1226,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1227,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1228,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1229,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1230,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1231,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1232,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1233,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1234,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1235,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1236,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1237,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1238,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1239,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1240,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1241,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1242,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1243,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1244,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1245,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1246,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1247,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1248,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1249,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1250,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1251,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1252,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1253,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1254,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1255,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1256,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1257,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1258,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1259,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1260,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1261,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1262,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1263,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1264,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1265,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1266,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1267,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1268,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1269,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1270,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1271,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1272,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1273,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1274,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1275,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1276,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1277,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1278,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1279,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1280,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1281,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1282,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1283,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1284,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1285,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1286,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1287,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1288,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1289,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1290,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1291,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1292,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1293,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1294,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1295,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1296,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1297,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1298,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1299,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1300,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1301,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1302,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1303,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1304,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1305,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1306,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1307,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1308,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1309,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1310,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1311,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1312,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1313,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1314,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1315,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1316,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1317,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1318,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1319,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1320,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1321,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1322,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1323,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1324,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1325,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1326,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1327,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1328,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1329,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1330,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1331,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1332,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1333,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1334,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1335,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1336,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1337,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1338,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1339,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1340,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1341,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1342,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1343,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1344,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1345,,,,,,,,,,,
+40676813-6b48-4183-9d78-1dac29f3c1346,,,,,,,,,,,

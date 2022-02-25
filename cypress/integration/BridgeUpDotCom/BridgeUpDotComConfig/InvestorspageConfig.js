@@ -1,0 +1,1 @@
+export const Investorstesturl ='https://bridgeup.com/investors/'

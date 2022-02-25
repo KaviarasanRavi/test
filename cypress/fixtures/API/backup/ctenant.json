@@ -1,0 +1,20 @@
+[{
+                        "tenant_name": "TrackDfectABD",
+                        "email": "prabhakaran15@bridgeup.com",
+                        "password": "admin123",
+                        "first_name": "Prabha",
+                        "last_name": "Karan",
+                        "designation": "Testing",
+                        "mobile_number": "8805063547",
+                        "country_code": "91"
+},
+{
+    "tenant_name": "TrackDfectABD1",
+    "email": "prabhakaran15@bridgeup.com",
+    "password": "admin123",
+    "first_name": "Prabha",
+    "last_name": "Karan",
+    "designation": "Testing",
+    "mobile_number": "8805063547",
+    "country_code": "91"
+}]

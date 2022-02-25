@@ -1,0 +1,6 @@
+export const Contacttesturl ='https://bridgeup.com/contact/'
+export const ValidName = 'Automation'
+export const ValidMail = 'prabhakaran@bridgeup.com'
+export const ValidPhonenumber = '6381794677'
+export const Validsubject = 'BridgeUp.com'
+export const Validmessage = 'BridgeUp.com-Testing'

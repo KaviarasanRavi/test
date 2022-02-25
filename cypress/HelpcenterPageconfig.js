@@ -1,0 +1,5 @@
+export const testurl ='https://bridgeup.com/faqs/help-center/'
+export const ValidFirstName = 'automation'
+export const ValidLastName = 'automation'
+export const ValidMobileNumber = '9876543210'
+export const ValidWhatWeCanDo = 'bridgeup'

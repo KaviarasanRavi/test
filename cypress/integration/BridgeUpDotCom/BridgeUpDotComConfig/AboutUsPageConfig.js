@@ -1,0 +1,1 @@
+export const AboutUsPagetesturl ='https://bridgeup.com/about-us/'

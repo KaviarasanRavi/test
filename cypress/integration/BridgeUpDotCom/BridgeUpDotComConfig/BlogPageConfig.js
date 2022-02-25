@@ -1,0 +1,1 @@
+export const BlogPagetesturl ='https://bridgeup.com/blog/'

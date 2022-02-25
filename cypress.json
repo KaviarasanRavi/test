@@ -1,0 +1,16 @@
+{
+    "chromeWebSecurity": false,
+    "video": false,
+    "projectId": "2x1fjy",
+    "experimentalStudio": true,
+    "defaultCommandTimeout": 30000,
+      "reporter": "mochawesome",
+    "reporterOptions": {
+            "reportDir":"cypress/reports/mocha",
+            "overwrite":false,
+            "html":true,
+            "json":false,
+            "timestamp": "mmddyyyy_HHMMss"
+        }
+    }
+  

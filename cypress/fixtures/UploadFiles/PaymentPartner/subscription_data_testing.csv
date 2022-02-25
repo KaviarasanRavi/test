@@ -1,0 +1,2 @@
+customer_identifier,customer_email,customer_name,term_start,term_end,status,billing_period,billing_interval,amount_per_period,customer_created,tax_inclusive,tax_rate
+CUS100,customer@email.com,Ranjit Shah,2020-06-26,2022-06-26,ACTIVE,MONTH,1,1000,2020-06-26,no,0
